@@ -1,0 +1,13 @@
+//
+//Copyright (c) Hassan_Ali. All rights reserved 
+//
+
+using UnityEngine;
+
+/// <summary>
+/// #NAME#
+/// </summary>
+public class #SCRIPTNAME#
+{
+    #NOTRIM#
+}
